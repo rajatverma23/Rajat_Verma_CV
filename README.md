@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajatverma23
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning MERN stack.
+- 👋 Hi, I’m Rajat Verma
+- 👀 I’m a research scholar in IIT Mandi.
+- 🌱 I’m currently learning Deep Learning and CNN.
 - 📫 How to reach me - rajatverma231097@gmail.com
 
 <!---
