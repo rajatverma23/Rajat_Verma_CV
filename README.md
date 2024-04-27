@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajat Verma
 - 👀 I’m a research scholar in IIT Mandi.
-- 🌱 I’m currently learning Deep Learning and CNN.
+- 🌱 I’m currently learning Computer Vision Deep Learning.
 - 📫 How to reach me - rajatverma231097@gmail.com
 
 <!---
